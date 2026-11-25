@@ -63,13 +63,6 @@ Step by step with the controller buttons: **[Manual](MANUAL.en.md)**.
 - **Game Boy:** no MBC, MBC1, MBC3 and MBC5 cartridges. Game Boy Color only games do not run.
 - Save states and battery saves need the ODE. On a burnt CD or another ODE games should run without them (**not tested**).
 
-## What was tested
-
-- **Real 3DO:** the NES and Game Boy cores in test ISOs (picture, sound and speed) and a manager-built ISO, with Super Mario Bros. 3 starting fast.
-- **Opera emulator:** 740 NES games in an automated run (714 booted and responded; this does not measure speed, sound or later stages), 24 Game Boy games, saving and loading states.
-- **Not yet confirmed on a real 3DO:** most games, save states of this version and very large libraries.
-- **Manager:** automated tests and the `.exe` self-test.
-
 **Known limitations:** some games slow down in certain scenes or do not work; the menu's C button (cheats) only works on the Game Boy tab (for NES use X in the game) and NES cheats are not remembered.
 
 ## Help us test

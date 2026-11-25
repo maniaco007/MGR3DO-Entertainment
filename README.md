@@ -63,13 +63,6 @@ Passo a passo com os botões do controle: **[Manual](MANUAL.md)**.
 - **Game Boy:** cartuchos sem MBC, MBC1, MBC3 e MBC5. Jogos exclusivos de Game Boy Color não rodam.
 - Estado salvo e save de bateria precisam da ODE. Em CD gravado ou outra ODE os jogos devem rodar sem essa parte (**não testado**).
 
-## O que foi testado
-
-- **3DO real:** os núcleos de NES e Game Boy em ISOs de teste (imagem, som e velocidade) e uma ISO montada pelo Gerenciador, com o Super Mario Bros. 3 abrindo rápido.
-- **Emulador Opera:** 740 jogos de NES numa bateria automática (714 abriram e responderam; isso não mede velocidade, som nem fases adiantadas), 24 jogos de Game Boy, salvar e carregar estado.
-- **Ainda não confirmado no 3DO real:** a maior parte dos jogos, o estado salvo desta versão e bibliotecas muito grandes.
-- **Gerenciador:** testes automáticos e autoteste do `.exe`.
-
 **Limitações conhecidas:** alguns jogos ficam lentos em certas cenas ou não funcionam; no menu, o botão C (cheats) só funciona na aba Game Boy (no NES use X dentro do jogo) e os cheats de NES não ficam gravados.
 
 ## Ajude a testar
