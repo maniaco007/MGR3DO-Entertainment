@@ -2,11 +2,13 @@
 
 **[English](README.en.md)**
 
-![Menu do MGR3DO Entertainment no 3DO, aba NES](imagens/menu-nes.png)
+![MGR3DO Entertainment, emulador de NES e Game Boy para o 3DO](imagens/capa.png)
 
 **Emulador de NES e Game Boy para o 3DO, com menu em português, capas, cheats prontos e estado salvo no pen drive, e um aplicativo para Windows que monta a ISO a partir das suas ROMs.**
 
 Um projeto **[Maniaco Game Room](https://www.maniacogameroom.com.br/)**.
+
+![Menu do MGR3DO Entertainment no 3DO, aba NES](imagens/menu-nes.png)
 
 > **Versão 0.9.0 (beta).** Esta versão é divulgada para que a comunidade ajude a identificar situações e o projeto evoluir. Testou? Conte o que viu em **[Issues](../../issues)**. Veja [Ajude a testar](#ajude-a-testar).
 
